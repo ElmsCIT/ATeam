@@ -18,15 +18,100 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 0.5653158055126307,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
   "instances": [],
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "d5f9dd62ddd1119621bba27b923f9ee829b2e71762f69fa115a93536fd688fcb",
+      "name": "BowlingBallPurple",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bowling ball purple.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 18,
+                        "y": 0
+                      },
+                      {
+                        "x": 18,
+                        "y": 18
+                      },
+                      {
+                        "x": 0,
+                        "y": 18
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "1efbc9c9021bc9e79e048c3a7d332d3325bf4c015e33c662e95e2f689d6d49a5",
+      "bottomMargin": 128,
+      "height": 384,
+      "leftMargin": 128,
+      "name": "GreenLeaves",
+      "rightMargin": 128,
+      "texture": "9patch_Green leaves_all_128.png",
+      "tiled": true,
+      "topMargin": 128,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 384,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "BowlingBallPurple"
+      },
+      {
+        "objectName": "GreenLeaves"
+      }
+    ]
   },
   "events": [],
   "layers": [
