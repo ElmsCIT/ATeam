@@ -269,6 +269,69 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Ground/6d46ded7e8bb8db1460cf56ad9e01e0fa3197d3a9e16510f52cae2987f2d6002_9patch_Green leaves_all_128.png",
           "name": "9patch_Green leaves_all_128.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cropped Props/TX Tileset Grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cropped Props\\TX Tileset Grass.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tree 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tree 1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tree2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tree2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tree 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tree 2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tree 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tree 3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wall 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall 1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "floor1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1149,11 +1212,202 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Background_",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cropped Props\\TX Tileset Grass.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 256,
+                        "y": 0
+                      },
+                      {
+                        "x": 256,
+                        "y": 256
+                      },
+                      {
+                        "x": 0,
+                        "y": 256
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Tree_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Tree2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 4
+                      },
+                      {
+                        "x": 120,
+                        "y": 4
+                      },
+                      {
+                        "x": 120,
+                        "y": 143
+                      },
+                      {
+                        "x": 7,
+                        "y": 143
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Wall_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wall 1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 69,
+                        "y": 8
+                      },
+                      {
+                        "x": 69,
+                        "y": 104
+                      },
+                      {
+                        "x": 5,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
+      {
+        "folderName": "Wall",
+        "children": [
+          {
+            "objectName": "Wall_1"
+          }
+        ]
+      },
+      {
+        "objectName": "Background_"
+      },
       {
         "objectName": "candle_A"
       },
@@ -1165,6 +1419,14 @@
       },
       {
         "objectName": "spike_1"
+      },
+      {
+        "folderName": "Tree",
+        "children": [
+          {
+            "objectName": "Tree_1"
+          }
+        ]
       },
       {
         "objectName": "spike_2"
