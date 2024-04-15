@@ -332,6 +332,15 @@
         "name": "floor1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cropped Props/Tree 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cropped Props\\Tree 1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1293,7 +1302,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Tree2.png",
+                  "image": "Cropped Props\\Tree 1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
