@@ -571,7 +571,7 @@
         "alwaysLoaded": false,
         "file": "Inside Temple/Floor/floor26.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Inside Temple/Floor/floor26.png\",\"extension\":\".png\"}",
         "name": "Inside Temple\\Floor\\floor26.png",
         "smoothed": true,
         "userAdded": true
@@ -791,6 +791,24 @@
         "name": "Cropped Props\\TX Tileset Grass",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "column6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "column6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "columnnat7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "columnnat7.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2247,11 +2265,12 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Inside Temple\\Floor\\floor26",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -2272,20 +2291,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 9,
                         "y": 6
                       },
                       {
-                        "x": 75,
+                        "x": 73,
                         "y": 6
                       },
                       {
-                        "x": 75,
-                        "y": 71
+                        "x": 73,
+                        "y": 70
                       },
                       {
-                        "x": 11,
-                        "y": 71
+                        "x": 9,
+                        "y": 70
                       }
                     ]
                   ]
@@ -3796,6 +3815,126 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "columnnat6",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "column6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 14,
+                        "y": 15
+                      },
+                      {
+                        "x": 36,
+                        "y": 15
+                      },
+                      {
+                        "x": 36,
+                        "y": 88
+                      },
+                      {
+                        "x": 14,
+                        "y": 88
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "columnnat7",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "columnnat7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 10
+                      },
+                      {
+                        "x": 23,
+                        "y": 10
+                      },
+                      {
+                        "x": 23,
+                        "y": 85
+                      },
+                      {
+                        "x": 7,
+                        "y": 85
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -3879,7 +4018,13 @@
             "objectName": "Columnnat2"
           },
           {
+            "objectName": "columnnat7"
+          },
+          {
             "objectName": "Columnnat5"
+          },
+          {
+            "objectName": "columnnat6"
           },
           {
             "objectName": "Columnnat4"
