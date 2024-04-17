@@ -724,7 +724,7 @@
         "alwaysLoaded": false,
         "file": "Inside Temple/Stairway/stairway2.PNG",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Inside Temple/Stairway/stairway2.PNG\",\"extension\":\".png\"}",
         "name": "Inside Temple\\Stairway\\stairway2.PNG",
         "smoothed": true,
         "userAdded": true
@@ -809,6 +809,24 @@
         "name": "columnnat7.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TX Tileset Grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TX Tileset Grass.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
