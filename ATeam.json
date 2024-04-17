@@ -809,6 +809,69 @@
         "name": "columnnat7.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "IMG_4528.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_4528.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FAA58DF0-BCB1-478D-859D-47310AAD05A4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"FAA58DF0-BCB1-478D-859D-47310AAD05A4.png\",\"extension\":\".png\"}",
+        "name": "FAA58DF0-BCB1-478D-859D-47310AAD05A4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FAA58DF0-BCB1-478D-859D-47310AAD05A5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"FAA58DF0-BCB1-478D-859D-47310AAD05A5.png\",\"extension\":\".png\"}",
+        "name": "FAA58DF0-BCB1-478D-859D-47310AAD05A5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1D4315A0-AD07-4243-A47B-73335630DAF4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"1D4315A0-AD07-4243-A47B-73335630DAF4.png\",\"extension\":\".png\"}",
+        "name": "1D4315A0-AD07-4243-A47B-73335630DAF4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C8BC1D94-28C4-4E01-A2A5-3CDD52395FB8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C8BC1D94-28C4-4E01-A2A5-3CDD52395FB8.png\",\"extension\":\".png\"}",
+        "name": "C8BC1D94-28C4-4E01-A2A5-3CDD52395FB8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "D3073509-B86B-4427-A63E-C028817F7EDB.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"D3073509-B86B-4427-A63E-C028817F7EDB.png\",\"extension\":\".png\"}",
+        "name": "D3073509-B86B-4427-A63E-C028817F7EDB.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "3119C5CE-A5FF-473A-BC5E-32406E379A4C.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"3119C5CE-A5FF-473A-BC5E-32406E379A4C.png\",\"extension\":\".png\"}",
+        "name": "3119C5CE-A5FF-473A-BC5E-32406E379A4C.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3935,11 +3998,287 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "bg",
+      "texture": "IMG_4528.jpg",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "stella",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "still",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "FAA58DF0-BCB1-478D-859D-47310AAD05A4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 453,
+                    "y": 159
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 597,
+                    "y": 291
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 262,
+                        "y": 52
+                      },
+                      {
+                        "x": 798,
+                        "y": 43
+                      },
+                      {
+                        "x": 934.5,
+                        "y": 270.5
+                      },
+                      {
+                        "x": 307.5,
+                        "y": 257.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bleeding",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.5,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "FAA58DF0-BCB1-478D-859D-47310AAD05A5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 453,
+                    "y": 159
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 597,
+                    "y": 291
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 262,
+                        "y": 52
+                      },
+                      {
+                        "x": 798,
+                        "y": 43
+                      },
+                      {
+                        "x": 934.5,
+                        "y": 270.5
+                      },
+                      {
+                        "x": 307.5,
+                        "y": 257.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "1D4315A0-AD07-4243-A47B-73335630DAF4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 453,
+                    "y": 159
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 597,
+                    "y": 291
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 262,
+                        "y": 52
+                      },
+                      {
+                        "x": 798,
+                        "y": 43
+                      },
+                      {
+                        "x": 934.5,
+                        "y": 270.5
+                      },
+                      {
+                        "x": 307.5,
+                        "y": 257.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C8BC1D94-28C4-4E01-A2A5-3CDD52395FB8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 453,
+                    "y": 159
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 597,
+                    "y": 291
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 262,
+                        "y": 52
+                      },
+                      {
+                        "x": 798,
+                        "y": 43
+                      },
+                      {
+                        "x": 934.5,
+                        "y": 270.5
+                      },
+                      {
+                        "x": 307.5,
+                        "y": 257.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "D3073509-B86B-4427-A63E-C028817F7EDB.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 453,
+                    "y": 159
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 597,
+                    "y": 291
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 262,
+                        "y": 52
+                      },
+                      {
+                        "x": 798,
+                        "y": 43
+                      },
+                      {
+                        "x": 934.5,
+                        "y": 270.5
+                      },
+                      {
+                        "x": 307.5,
+                        "y": 257.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "3119C5CE-A5FF-473A-BC5E-32406E379A4C.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 453,
+                    "y": 159
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 597,
+                    "y": 291
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 262,
+                        "y": 52
+                      },
+                      {
+                        "x": 798,
+                        "y": 43
+                      },
+                      {
+                        "x": 934.5,
+                        "y": 270.5
+                      },
+                      {
+                        "x": 307.5,
+                        "y": 257.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
+      {
+        "folderName": "titlescreen",
+        "children": [
+          {
+            "objectName": "stella"
+          },
+          {
+            "objectName": "bg"
+          }
+        ]
+      },
       {
         "objectName": "bigwindownat"
       },
