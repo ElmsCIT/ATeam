@@ -809,6 +809,33 @@
         "name": "columnnat7.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3978,10 +4005,10 @@
         "folderName": "Bigwallnat",
         "children": [
           {
-            "objectName": "bigwallnat3"
+            "objectName": "bigwallnat2"
           },
           {
-            "objectName": "bigwallnat2"
+            "objectName": "bigwallnat3"
           },
           {
             "objectName": "bigwallnat1"
@@ -3992,10 +4019,10 @@
         "folderName": "fldecornat",
         "children": [
           {
-            "objectName": "fldecornat3"
+            "objectName": "fldecornat4"
           },
           {
-            "objectName": "fldecornat4"
+            "objectName": "fldecornat3"
           },
           {
             "objectName": "fldecornat5"
