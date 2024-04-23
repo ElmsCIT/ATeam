@@ -99,6 +99,18 @@
           "parameters": [
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "01. Title Theme.mp3",
+            "",
+            "100",
+            "1"
+          ]
         }
       ]
     },
@@ -185,6 +197,11 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [

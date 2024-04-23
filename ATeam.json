@@ -883,6 +883,25 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "IMG_4562.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_4562.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "01. Title Theme.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "01. Title Theme.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4014,7 +4033,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "bg",
-      "texture": "IMG_4528.jpg",
+      "texture": "IMG_4562.jpeg",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -4327,7 +4346,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Game over\n\nPress any key to restart",
+      "string": "Game over\n\n[Press any key to restart]",
       "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
       "textAlignment": "center",
       "characterSize": 70,
@@ -4350,7 +4369,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Game over\n\nPress any key to restart",
+        "text": "Game over\n\n[Press any key to restart]",
         "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
         "textAlignment": "center",
         "characterSize": 70,
