@@ -94,14 +94,6 @@
       "actions": [
         {
           "type": {
-            "value": "PlayerAuthentication::DisplayAuthenticationBanner"
-          },
-          "parameters": [
-            ""
-          ]
-        },
-        {
-          "type": {
             "value": "PlaySound"
           },
           "parameters": [
@@ -188,12 +180,11 @@
       "actions": [
         {
           "type": {
-            "value": "Scene"
+            "value": "PushScene"
           },
           "parameters": [
             "",
-            "\"Level Ab\"",
-            ""
+            "\"Level Ab\""
           ]
         }
       ]
