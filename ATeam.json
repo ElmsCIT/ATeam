@@ -917,6 +917,1694 @@
         "name": "NewSprite",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Inside Temple/Torch/torch_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inside Temple\\Torch\\torch_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/d3e3480fae685ea69ea4a55373d43c73cc10e6e30e4b124131a222a60b799922_Tracy_AerialCrossbowShot_1.png",
+          "name": "Tracy_AerialCrossbowShot_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9c9e7c9ba270cc36f2ec70b40b70786ecb38fca9ee473a56958f011a1572a984_Tracy_AerialCrossbowShot_2.png",
+          "name": "Tracy_AerialCrossbowShot_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4d3e65e73d934f1a3318d9882765b85c586e99375d9c399f87911d728fb72339_Tracy_AerialCrossbowShot_3.png",
+          "name": "Tracy_AerialCrossbowShot_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/79f8e00c2b7a64658436baa1f35122d2039843f0edaff9f2928c0e7a41be0fe1_Tracy_AerialCrossbowShot_4.png",
+          "name": "Tracy_AerialCrossbowShot_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Crouch_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Crouch_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/062ca69c62513ff032e56162e4828b4b6dfabbc9d597a20129b2fbb7c8aea679_Tracy_Crouch_1.png",
+          "name": "Tracy_Crouch_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Crouch_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Crouch_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9371f1a39b3a6009ab16a97c3d22fd1314b871ecca8793e684b61058f34bb127_Tracy_Crouch_2.png",
+          "name": "Tracy_Crouch_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Crouch_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Crouch_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/542d611841461b79a846d8dfc711b0a6ea74136f2afe48d6a2a433825dee8092_Tracy_Crouch_3.png",
+          "name": "Tracy_Crouch_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/03f4dff08e1fd548f3add46d564a0cabab3a34ba8b1b9662f718a3bbe3651290_Tracy_Falling.png",
+          "name": "Tracy_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/8a27d0fa67e14051308fc05f1b04442628bdd3744b255da604570bf3c76b8407_Tracy_Hurt.png",
+          "name": "Tracy_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ec39a1e2c9baee6c30be85437b8cdfffc3c85920ce45139b0bdba8105dd252e2_Tracy_Idle1_1.png",
+          "name": "Tracy_Idle1_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/58ef38f0b799f2705c30dd216d0180bf1838ebb6336bc991b36513a4184415e6_Tracy_Idle1_2.png",
+          "name": "Tracy_Idle1_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0845d5ecf77f30478d73d047d335c7d1da477c6ef25bcfd511b94cdcab844373_Tracy_Idle1_3.png",
+          "name": "Tracy_Idle1_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ea7db6955b68c835dd5a54ec15f833bb28492a89bf0a28900b796505c22c6095_Tracy_Idle1_4.png",
+          "name": "Tracy_Idle1_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1bca27366422e1f105ee51dddb10e3d1c1493cb96f0c2b7d00f8563f7ff0aa67_Tracy_Idle1_5.png",
+          "name": "Tracy_Idle1_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1893bbb9925d12b5c53e29ea65de5c706e01ca24f6346e28f97cdd0322741dfd_Tracy_Idle2_1.png",
+          "name": "Tracy_Idle2_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/540e2ae1d0397ba39d803f715482520e4c6958785d5e2a03ec115f85a1fc7619_Tracy_Idle2_2.png",
+          "name": "Tracy_Idle2_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/60410cd98456d9d9973273d429af240b36df5b3746799b41c8d7a6bd3674bd3e_Tracy_Idle2_3.png",
+          "name": "Tracy_Idle2_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c76b058ced3a5e221e3c60ab7a1a1aa19d4743b76c03aad41589de892b612484_Tracy_Idle2_4.png",
+          "name": "Tracy_Idle2_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/60410cd98456d9d9973273d429af240b36df5b3746799b41c8d7a6bd3674bd3e_Tracy_Idle2_5.png",
+          "name": "Tracy_Idle2_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c76b058ced3a5e221e3c60ab7a1a1aa19d4743b76c03aad41589de892b612484_Tracy_Idle2_6.png",
+          "name": "Tracy_Idle2_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/60410cd98456d9d9973273d429af240b36df5b3746799b41c8d7a6bd3674bd3e_Tracy_Idle2_7.png",
+          "name": "Tracy_Idle2_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/064eec19470ff816a6240a09181241c38d06f89645cf8e5d9501abd01123a3f8_Tracy_Idle2_8.png",
+          "name": "Tracy_Idle2_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b5d82526c2dd1d23646ecc60c683624e19d2b0410cba443365a2718d749ff64f_Tracy_Idle3_1.png",
+          "name": "Tracy_Idle3_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/10a24d9499c5ad25fe1d3e984dad4ac50531417f8987d121400ef74c05e70036_Tracy_Idle3_2.png",
+          "name": "Tracy_Idle3_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/64c168442c19c8c607a8049ee210321fcfa2f9357024d135c90c901b9563da45_Tracy_Idle3_3.png",
+          "name": "Tracy_Idle3_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/39efde35b47961a9c8a4f88996889910346b8708b5f379679bc872ba59582b9a_Tracy_Idle3_4.png",
+          "name": "Tracy_Idle3_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/3f7c354537fd9d28346828f182b6aa8a9d63f213068b2fa6a958f7068d9e577f_Tracy_Idle3_5.png",
+          "name": "Tracy_Idle3_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_IdleBlink_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_IdleBlink_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4e21c7e4498ed1e0b820ab54c023e91cbbbce711e494a7c25a58fe60912cdb9f_Tracy_IdleBlink_1.png",
+          "name": "Tracy_IdleBlink_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_IdleBlink_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_IdleBlink_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6a2f89de4070078b1c2cbb2133bf00f45a2d167eea1dae033ee79ed3292b279c_Tracy_IdleBlink_2.png",
+          "name": "Tracy_IdleBlink_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_IdleBlink_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_IdleBlink_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ec39a1e2c9baee6c30be85437b8cdfffc3c85920ce45139b0bdba8105dd252e2_Tracy_IdleBlink_3.png",
+          "name": "Tracy_IdleBlink_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b025625514c48875058c78ce32c53283d74d0ac4a381782daf3ab218314c71e9_Tracy_Jump.png",
+          "name": "Tracy_Jump.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1c5310ea49ae2f33f904a65dd921150be1b4a854bdc08f19367d21aad388615c_Tracy_LandingAndGetUp_1.png",
+          "name": "Tracy_LandingAndGetUp_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/22f7488fa3788c7418653a5f1cb5465e10f80a62773ac7d3187f3a8e2f06958e_Tracy_LandingAndGetUp_2.png",
+          "name": "Tracy_LandingAndGetUp_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9371f1a39b3a6009ab16a97c3d22fd1314b871ecca8793e684b61058f34bb127_Tracy_LandingAndGetUp_3.png",
+          "name": "Tracy_LandingAndGetUp_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/542d611841461b79a846d8dfc711b0a6ea74136f2afe48d6a2a433825dee8092_Tracy_LandingAndGetUp_4.png",
+          "name": "Tracy_LandingAndGetUp_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/d6ab66c97c71e94ea014794ba7a146167bdcbcab065aeef2839a000ada78ab37_Tracy_ReloadingCrossbow_1.png",
+          "name": "Tracy_ReloadingCrossbow_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5e929311d8b0e217bef0ebee846915f805471fd354c9ce56a24b74b79232f31d_Tracy_ReloadingCrossbow_10.png",
+          "name": "Tracy_ReloadingCrossbow_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/94f9e4e0577cb1e132b129d3d70150db3f01617f00cafcc5e08712a9ba2cc7a0_Tracy_ReloadingCrossbow_11.png",
+          "name": "Tracy_ReloadingCrossbow_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6bb8095340e93557539514c4831f58dd29cd19988625c2db5a72d41ff68f45fd_Tracy_ReloadingCrossbow_12.png",
+          "name": "Tracy_ReloadingCrossbow_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/f99fe82d7f05c8f1c9227e94be8adb84aca09ce5e30e6ecbe4f665b506317807_Tracy_ReloadingCrossbow_13.png",
+          "name": "Tracy_ReloadingCrossbow_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c723c6d57c31d51bbe4c5bfc128320e26931fd13cb42c01a83d1df285f15220e_Tracy_ReloadingCrossbow_14.png",
+          "name": "Tracy_ReloadingCrossbow_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/da4af6a05eddc589bfc5d3dc3ec966abd9cf2cd0d4e86b39bd37a3ff0ab6d9af_Tracy_ReloadingCrossbow_15.png",
+          "name": "Tracy_ReloadingCrossbow_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6b388dd3d77cf9bbf31f8ee9887c66e8dedee107db50dca03e6291c520857622_Tracy_ReloadingCrossbow_16.png",
+          "name": "Tracy_ReloadingCrossbow_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aee8aabb8f61974f5c645d6ae6cfcc4b263419fa0fa16eb32afae17384a0f445_Tracy_ReloadingCrossbow_2.png",
+          "name": "Tracy_ReloadingCrossbow_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/150cd500d54ae621766b1df3203475ffe13213b43b286c5a1449b5bec31a5432_Tracy_ReloadingCrossbow_3.png",
+          "name": "Tracy_ReloadingCrossbow_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0eacec3982ecc0892a57ffb10c9a3c0fd1424250aea974484f74a0228fc8c7c5_Tracy_ReloadingCrossbow_4.png",
+          "name": "Tracy_ReloadingCrossbow_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9837f9e98167861540dd26f1345aa31325b51b2e2b1cb80312fc0403c7523670_Tracy_ReloadingCrossbow_5.png",
+          "name": "Tracy_ReloadingCrossbow_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4ba1512004b334b29cb3cae6a99f8710c048b1f0f9c003c25e860bd447b2fe44_Tracy_ReloadingCrossbow_6.png",
+          "name": "Tracy_ReloadingCrossbow_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/20b206b3da89093da37c8f376eca02d46294aa17067fec37174d2ad677e4d74c_Tracy_ReloadingCrossbow_7.png",
+          "name": "Tracy_ReloadingCrossbow_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/26696e5a9b3b1dd542f32a411232747aa670e7f5d0d96cc7abed113e10c81884_Tracy_ReloadingCrossbow_8.png",
+          "name": "Tracy_ReloadingCrossbow_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/135d8765b16b3a2d71a6df48cd3cd35d01bcc5bac02f2577e33ce91eb41e20e3_Tracy_ReloadingCrossbow_9.png",
+          "name": "Tracy_ReloadingCrossbow_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e64bf7d70579af15d21e2c55d15ee468e843e3a8fe7018c8d88b34ec35b38e75_Tracy_Run_1.png",
+          "name": "Tracy_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/bf23b2c5495be5de85d3921969eeef76b742531ab9c75d6fbfe0b0101835e606_Tracy_Run_2.png",
+          "name": "Tracy_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a056c1a035fa74a295c27d1fbf19866b54134243ba8cee92397ac6e26795a166_Tracy_Run_3.png",
+          "name": "Tracy_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e64bf7d70579af15d21e2c55d15ee468e843e3a8fe7018c8d88b34ec35b38e75_Tracy_Run_4.png",
+          "name": "Tracy_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a36bb715e0cf547a2e063179970eb9a91feaa2f74a605e919aa78f4bc9a50922_Tracy_Run_5.png",
+          "name": "Tracy_Run_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/68862c2e1ff19fdc8d7e91a8894c0a4b65d16b4863bc4c8c48445185fe37443f_Tracy_Run_6.png",
+          "name": "Tracy_Run_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/94fd3426817378a343b585e4bd7313f8f1fde9c0e9b29a516b91075ed511c667_Tracy_StandingCrossbowShot_1.png",
+          "name": "Tracy_StandingCrossbowShot_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b820ec73acbcb7e5bb73b79407db5dddda121b4aed328d462770011a7ffa9cec_Tracy_StandingCrossbowShot_2.png",
+          "name": "Tracy_StandingCrossbowShot_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5f48e8785be027842c6112542327317a77b95d8f064fb5f8ff2ed8f9f3431a03_Tracy_StandingCrossbowShot_3.png",
+          "name": "Tracy_StandingCrossbowShot_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/bd06687413e04b1047e3435fbedfd8650d0de8d78f30469ba7469e7d02256ea1_Tracy_StandingCrossbowShot_4.png",
+          "name": "Tracy_StandingCrossbowShot_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f72133de127fef0cc0c60d4f99a6416d7aa4e939e565edd44c700b565726b0e5_Alchemist_Idle Down_1.png",
+          "name": "Alchemist_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f72133de127fef0cc0c60d4f99a6416d7aa4e939e565edd44c700b565726b0e5_Alchemist_Idle Down_2.png",
+          "name": "Alchemist_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/203244192ed0abdebfa13e5d8dc1982c5a80edd004a2d119dc93a584dd54e77a_Alchemist_Idle Down_3.png",
+          "name": "Alchemist_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/203244192ed0abdebfa13e5d8dc1982c5a80edd004a2d119dc93a584dd54e77a_Alchemist_Idle Down_4.png",
+          "name": "Alchemist_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d277d6d7cd58827bff3ec2019afee460a4e5994765a56073f256d1f7bf5bb3c0_Alchemist_Idle Left_1.png",
+          "name": "Alchemist_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d277d6d7cd58827bff3ec2019afee460a4e5994765a56073f256d1f7bf5bb3c0_Alchemist_Idle Left_2.png",
+          "name": "Alchemist_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/259c8457409dc1d456b90866b9d8f1214c2e4ab59854ca63b9c5ec157d93df08_Alchemist_Idle Left_3.png",
+          "name": "Alchemist_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/259c8457409dc1d456b90866b9d8f1214c2e4ab59854ca63b9c5ec157d93df08_Alchemist_Idle Left_4.png",
+          "name": "Alchemist_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5e302770fbb0bb1a357a8074afa02c932bb0f6b9370cfe14e845baa534c2b438_Alchemist_Idle Right_1.png",
+          "name": "Alchemist_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5e302770fbb0bb1a357a8074afa02c932bb0f6b9370cfe14e845baa534c2b438_Alchemist_Idle Right_2.png",
+          "name": "Alchemist_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/791f0f75c7221bafca4380c207fff71e46d47d3ff2c5b933c6f82a92430a4bf7_Alchemist_Idle Right_3.png",
+          "name": "Alchemist_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/791f0f75c7221bafca4380c207fff71e46d47d3ff2c5b933c6f82a92430a4bf7_Alchemist_Idle Right_4.png",
+          "name": "Alchemist_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/10358357199a622caf4412cec574345afa71b88be808438f980f8a95727cda8d_Alchemist_Idle Up_1.png",
+          "name": "Alchemist_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/10358357199a622caf4412cec574345afa71b88be808438f980f8a95727cda8d_Alchemist_Idle Up_2.png",
+          "name": "Alchemist_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/807ad95f294ad480f3b16b12091c480e79d9b1c9ac599cee358cca9649cea20f_Alchemist_Idle Up_3.png",
+          "name": "Alchemist_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/807ad95f294ad480f3b16b12091c480e79d9b1c9ac599cee358cca9649cea20f_Alchemist_Idle Up_4.png",
+          "name": "Alchemist_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ef7ac736cc2b4eb61caea6f6cca64765df5a16a3a6635901d23cdbca53d61137_Alchemist_Walk Down_1.png",
+          "name": "Alchemist_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/48f92cb2e93145e534e15364d0b95083d47b8b5b55caced98547dbb3f5cb36d8_Alchemist_Walk Down_2.png",
+          "name": "Alchemist_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/6c409c5bb059e6b2ff7bd42e9157126e98ca9eacb3bcaa4e4fd6ec30f3c602fb_Alchemist_Walk Down_3.png",
+          "name": "Alchemist_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/48f92cb2e93145e534e15364d0b95083d47b8b5b55caced98547dbb3f5cb36d8_Alchemist_Walk Down_4.png",
+          "name": "Alchemist_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/edc664bebba3fd483ed98965d7e42bcbed0e978a59251057ca9724686a800ef3_Alchemist_Walk Left_1.png",
+          "name": "Alchemist_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/39b337fb8edf3ca57699074e17ebdf93e7f3d1d6e67847353bed1fe96172df50_Alchemist_Walk Left_2.png",
+          "name": "Alchemist_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/99be81b612bdb5586749eef78e3b253cc4a6e564efad0132173f869d35a8776c_Alchemist_Walk Left_3.png",
+          "name": "Alchemist_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/39b337fb8edf3ca57699074e17ebdf93e7f3d1d6e67847353bed1fe96172df50_Alchemist_Walk Left_4.png",
+          "name": "Alchemist_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f0a9443ea7ec6765a165b0a471c8a14a1c4a96882cc72575f6fcecce5347ca3e_Alchemist_Walk Right_1.png",
+          "name": "Alchemist_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/379c5c41ca4646f2611c640061a832887730205848868d34692abc9be8acb333_Alchemist_Walk Right_2.png",
+          "name": "Alchemist_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/3789a0d0867e119b34836c0baa7acd4f9d987fd319d9c8b04a9999ec4cbc7362_Alchemist_Walk Right_3.png",
+          "name": "Alchemist_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/379c5c41ca4646f2611c640061a832887730205848868d34692abc9be8acb333_Alchemist_Walk Right_4.png",
+          "name": "Alchemist_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/36d4a390b359cdd88e259f4bd61374dc8616ea4f20ddc7bef6be26a5073d931e_Alchemist_Walk Up_1.png",
+          "name": "Alchemist_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/daa64a6c8ead81ca002fb6e07b28a6dbb6669fdc5e9de4643329b0203b683e97_Alchemist_Walk Up_2.png",
+          "name": "Alchemist_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f112a2a44765ff302fba75268d9e3bdf2b3472832a148232c343ccde3d99e8fa_Alchemist_Walk Up_3.png",
+          "name": "Alchemist_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/daa64a6c8ead81ca002fb6e07b28a6dbb6669fdc5e9de4643329b0203b683e97_Alchemist_Walk Up_4.png",
+          "name": "Alchemist_Walk Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Textbox.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Textbox.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cropped Props/TX Props(27).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cropped Props\\TX Props(27).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cropped Props/TX Props(30).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Cropped Props/TX Props(30).png\",\"extension\":\".png\"}",
+        "name": "Cropped Props\\TX Props(30).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cropped Props/TX Props(33).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cropped Props\\TX Props(33).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cropped Props/TX Props.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cropped Props\\TX Props.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9f135cb7dc65180279d6b6f58f30e97cea1a2d97d18cb86c0b7090cabb4f437a_Blacksmith_Idle Down_1.png",
+          "name": "Blacksmith_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9f135cb7dc65180279d6b6f58f30e97cea1a2d97d18cb86c0b7090cabb4f437a_Blacksmith_Idle Down_2.png",
+          "name": "Blacksmith_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/46b0ff54c880e0c163c93ec9c327056c70810a054dec5b2decda3f7da248d9fb_Blacksmith_Idle Down_3.png",
+          "name": "Blacksmith_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/46b0ff54c880e0c163c93ec9c327056c70810a054dec5b2decda3f7da248d9fb_Blacksmith_Idle Down_4.png",
+          "name": "Blacksmith_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/42a9cf89027eb6be9b4e180c939f9170168b4a1bfa4df13cdbc3b4b462f5a732_Blacksmith_Idle Left_1.png",
+          "name": "Blacksmith_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/42a9cf89027eb6be9b4e180c939f9170168b4a1bfa4df13cdbc3b4b462f5a732_Blacksmith_Idle Left_2.png",
+          "name": "Blacksmith_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a2fc10d17ff4ea45a22b44439cabf3ef6021cb942a6c7900758e8a1dd6a035d5_Blacksmith_Idle Left_3.png",
+          "name": "Blacksmith_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a2fc10d17ff4ea45a22b44439cabf3ef6021cb942a6c7900758e8a1dd6a035d5_Blacksmith_Idle Left_4.png",
+          "name": "Blacksmith_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8b15621db49b131e6a06683ee56b41bcd43f2731676dba564a0adbd38a6035fa_Blacksmith_Idle Right_1.png",
+          "name": "Blacksmith_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8b15621db49b131e6a06683ee56b41bcd43f2731676dba564a0adbd38a6035fa_Blacksmith_Idle Right_2.png",
+          "name": "Blacksmith_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/6614379ee23cc71bd7a40e56b60c347cc3e991757f7544b7659121b0289b26ca_Blacksmith_Idle Right_3.png",
+          "name": "Blacksmith_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/6614379ee23cc71bd7a40e56b60c347cc3e991757f7544b7659121b0289b26ca_Blacksmith_Idle Right_4.png",
+          "name": "Blacksmith_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8fa6b7610b7df1f0e32eb02fcc5ceb3ca65f956f2a2f19488af081ae15244114_Blacksmith_Idle Up_1.png",
+          "name": "Blacksmith_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8fa6b7610b7df1f0e32eb02fcc5ceb3ca65f956f2a2f19488af081ae15244114_Blacksmith_Idle Up_2.png",
+          "name": "Blacksmith_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/add381291a3bf0133163876699c718b1b80f83ffec81caef7180c5f8783f049b_Blacksmith_Idle Up_3.png",
+          "name": "Blacksmith_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/add381291a3bf0133163876699c718b1b80f83ffec81caef7180c5f8783f049b_Blacksmith_Idle Up_4.png",
+          "name": "Blacksmith_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/fe456b09943c6a78950357dd3539ce0f0f5d91c6331f9023c0b04368d30ab6f5_Blacksmith_Walk Down_1.png",
+          "name": "Blacksmith_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0d6bd34706fa96374d7e7768aba47eb7af564e90dabd478a7b6a48583f575e9e_Blacksmith_Walk Down_2.png",
+          "name": "Blacksmith_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ae383e819075fa908aa9d961967558da77739a5b63de3fd20494f1f1db2beb7d_Blacksmith_Walk Down_3.png",
+          "name": "Blacksmith_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0d6bd34706fa96374d7e7768aba47eb7af564e90dabd478a7b6a48583f575e9e_Blacksmith_Walk Down_4.png",
+          "name": "Blacksmith_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/fce197b68a999c341f5eb8aac02e9e382dc181ad590563c48340ecbef12a1dd5_Blacksmith_Walk Left_1.png",
+          "name": "Blacksmith_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/b3f5a31c42cbd77b092a4eeae457cf8273c3a8d56f4bdaa3724b0fff62e9d05a_Blacksmith_Walk Left_2.png",
+          "name": "Blacksmith_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4cb00e6a6dc9894a56d6a8c8e5d36e23e48b16fa582fd9a2ed0fd3f52c04a477_Blacksmith_Walk Left_3.png",
+          "name": "Blacksmith_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/b3f5a31c42cbd77b092a4eeae457cf8273c3a8d56f4bdaa3724b0fff62e9d05a_Blacksmith_Walk Left_4.png",
+          "name": "Blacksmith_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5f17f97fbcb86f21fa533dd59db51f5a89092b762638e76475a72c788f600676_Blacksmith_Walk Right_1.png",
+          "name": "Blacksmith_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8ef09ef6e1bf4b7d64f3665a69fa73868a5d37be16923f2aa4b333e74047d65a_Blacksmith_Walk Right_2.png",
+          "name": "Blacksmith_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/dbe8947a0fdb42504c420448a7c6f1a0d6733706732dc1bd33e4b00349b12685_Blacksmith_Walk Right_3.png",
+          "name": "Blacksmith_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8ef09ef6e1bf4b7d64f3665a69fa73868a5d37be16923f2aa4b333e74047d65a_Blacksmith_Walk Right_4.png",
+          "name": "Blacksmith_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ab9eff92501d87b706690b6ca9e13960a94ef9b4ca6c8d48665e1740ec773212_Blacksmith_Walk Up_1.png",
+          "name": "Blacksmith_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ddb8ba88cf6eafa1965cbbc18870dca0b00d6a83c53020002ecee2f72f615f26_Blacksmith_Walk Up_2.png",
+          "name": "Blacksmith_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a99d54327449ceb6087e2ab73ec8b7ff74ec0d1f2c73899f28c12fc22ebed427_Blacksmith_Walk Up_3.png",
+          "name": "Blacksmith_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ddb8ba88cf6eafa1965cbbc18870dca0b00d6a83c53020002ecee2f72f615f26_Blacksmith_Walk Up_4.png",
+          "name": "Blacksmith_Walk Up_4.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -3454,11 +5142,12 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Inside Temple\\Stairway\\stairway2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -3506,7 +5195,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "stairwaynat3",
+      "name": "Entrynat",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4308,6 +5997,2963 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Torchnat1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Inside Temple\\Torch\\torch_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "710df4a0355bb8744f9ba8b61f6987bf410e8da6baf0b39feaca16ae6ed7b617",
+      "name": "Blacksmith",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Idle Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Down_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Left_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Right_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Idle Up_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Down_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Left_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Right_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blacksmith_Walk Up_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 8
+                      },
+                      {
+                        "x": 14,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "15c60f10e902f5cdda783051739fa4818d7d395f8b1066a5661ff44a019f88b6",
+      "name": "Alchemist_nat",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "acceleration": 300,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "customIsometryAngle": 30,
+          "deceleration": 800,
+          "ignoreDefaultControls": false,
+          "maxSpeed": 200,
+          "movementAngleOffset": 0,
+          "rotateObject": false,
+          "viewpoint": "TopDown"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Idle Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Down_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Left_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Right_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Idle Up_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Down_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Left_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Right_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Alchemist_Walk Up_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cropped Props\\TX Props(27).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 24,
+                        "y": 0
+                      },
+                      {
+                        "x": 24,
+                        "y": 19
+                      },
+                      {
+                        "x": 0,
+                        "y": 19
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "_2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Cropped Props\\TX Props(30)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cropped Props\\TX Props(30).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 27,
+                        "y": 0
+                      },
+                      {
+                        "x": 27,
+                        "y": 27
+                      },
+                      {
+                        "x": 0,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "_3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cropped Props\\TX Props(33).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 31,
+                        "y": 0
+                      },
+                      {
+                        "x": 31,
+                        "y": 19
+                      },
+                      {
+                        "x": 0,
+                        "y": 19
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "_4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cropped Props\\TX Props.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Textbox.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 860,
+                        "y": 0
+                      },
+                      {
+                        "x": 860,
+                        "y": 246
+                      },
+                      {
+                        "x": 0,
+                        "y": 246
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -4323,6 +8969,30 @@
             "objectName": "bg"
           }
         ]
+      },
+      {
+        "objectName": "NewSprite"
+      },
+      {
+        "objectName": "NewSprite2"
+      },
+      {
+        "objectName": "_4"
+      },
+      {
+        "objectName": "_3"
+      },
+      {
+        "objectName": "_2"
+      },
+      {
+        "objectName": "_1"
+      },
+      {
+        "objectName": "Alchemist_nat"
+      },
+      {
+        "objectName": "Blacksmith"
       },
       {
         "objectName": "bigwindownat"
@@ -4354,7 +9024,7 @@
             "objectName": "stairwaynat2"
           },
           {
-            "objectName": "stairwaynat3"
+            "objectName": "Entrynat"
           }
         ]
       },
@@ -4432,6 +9102,9 @@
       {
         "folderName": "floornat",
         "children": [
+          {
+            "objectName": "Torchnat1"
+          },
           {
             "objectName": "floornat5"
           },
