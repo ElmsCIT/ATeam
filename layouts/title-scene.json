@@ -184,7 +184,7 @@
           },
           "parameters": [
             "",
-            "\"Level Ab\""
+            "\"Level Natalina\""
           ]
         }
       ]
@@ -302,6 +302,10 @@
     {
       "name": "Text",
       "type": "TextContainerCapability::TextContainerBehavior"
+    },
+    {
+      "name": "TopDownMovement",
+      "type": "TopDownMovementBehavior::TopDownMovementBehavior"
     }
   ]
 }
