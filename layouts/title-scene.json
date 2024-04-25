@@ -56,6 +56,22 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "logo",
+      "name": "start",
+      "persistentUuid": "a14d8c60-b85e-41ee-8b97-072555a23e94",
+      "width": 0,
+      "x": 354,
+      "y": 536,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [],
@@ -78,10 +94,14 @@
       "actions": [
         {
           "type": {
-            "value": "PlayerAuthentication::DisplayAuthenticationBanner"
+            "value": "PlaySound"
           },
           "parameters": [
-            ""
+            "",
+            "01. Title Theme.mp3",
+            "",
+            "100",
+            "1"
           ]
         }
       ]
@@ -144,6 +164,35 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnyKeyPressed"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PushScene"
+          },
+          "parameters": [
+            "",
+            "\"Level Ab\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
@@ -249,6 +298,10 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     }
   ]
 }
