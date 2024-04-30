@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5468750000000007,
+    "zoomFactor": 0.6040838749988874,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -2860,70 +2860,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 3,
-      "height": 45,
-      "layer": "Assets Layer",
-      "name": "_2",
-      "persistentUuid": "0d744f11-5d31-4550-aef6-f6c5d9455bfa",
-      "width": 45,
-      "x": 556,
-      "y": 168,
-      "zOrder": 62,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 3,
-      "height": 37,
-      "layer": "Assets Layer",
-      "name": "_1",
-      "persistentUuid": "1ab3f493-c837-4b99-a52f-44eed0b8ee22",
-      "width": 48,
-      "x": 848,
-      "y": 143,
-      "zOrder": 63,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 3,
-      "height": 31,
-      "layer": "Assets Layer",
-      "name": "_3",
-      "persistentUuid": "4ebf9295-999c-44d1-ae29-62026df7065e",
-      "width": 49,
-      "x": 243,
-      "y": 168,
-      "zOrder": 64,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 3,
-      "height": 48,
-      "layer": "Assets Layer",
-      "name": "_4",
-      "persistentUuid": "3a9e601e-3640-43f3-b682-93063be42530",
-      "width": 34,
-      "x": 699,
-      "y": 592,
-      "zOrder": 65,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 3,
       "height": 115,
       "layer": "Floor layer",
       "name": "floornat15",
@@ -2942,20 +2878,206 @@
       "depth": 3,
       "height": 56,
       "layer": "Assets Layer",
-      "name": "Blacksmith",
+      "name": "Blacksmith_nat",
       "persistentUuid": "405fb087-aed3-441f-92da-2874c175ba11",
       "width": 37,
-      "x": 784,
-      "y": 132,
+      "x": 812,
+      "y": 147,
       "zOrder": 66,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 44,
+      "layer": "Assets Layer",
+      "name": "key_nat_1",
+      "persistentUuid": "6cb121c6-cf1b-4234-acb0-94363b65f15a",
+      "width": 44,
+      "x": 241,
+      "y": 140,
+      "zOrder": 67,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 42,
+      "layer": "Assets Layer",
+      "name": "key_nat_2",
+      "persistentUuid": "7e826400-60dc-4091-b42d-01c455e8cf4c",
+      "width": 42,
+      "x": 475,
+      "y": 136,
+      "zOrder": 68,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 46,
+      "layer": "Assets Layer",
+      "name": "key_nat_3",
+      "persistentUuid": "f5c2fcd7-cec4-4e67-b86e-cf741b2c8fa1",
+      "width": 46,
+      "x": 650,
+      "y": 176,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 48,
+      "layer": "Assets Layer",
+      "name": "key_nat_4",
+      "persistentUuid": "6f38888f-acbb-4448-94ee-8aa0b0ec71d3",
+      "width": 48,
+      "x": 696,
+      "y": 569,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 115,
+      "layer": "DialogueLayer",
+      "name": "Dialogue",
+      "persistentUuid": "6f3df17e-97a8-4a29-b3fd-cc6dcc1ef022",
+      "width": 289,
+      "x": 707,
+      "y": 211,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "DialogueLayer",
+      "name": "Press_Space_Bar",
+      "persistentUuid": "f2d82596-f49f-4b3f-b70b-cab732f6a721",
+      "width": 0,
+      "x": 372,
+      "y": 425,
+      "zOrder": 72,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
   ],
-  "objects": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Dialogue",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Hello Player, you must collect all of the puzzles and find the key in order to pass to the next level !! Good luck!!",
+      "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Hello Player, you must collect all of the puzzles and find the key in order to pass to the next level !! Good luck!!",
+        "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 20,
+        "color": "255;255;255"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Press_Space_Bar",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Press the space bar to continue ",
+      "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Press the space bar to continue ",
+        "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "255;255;255"
+      }
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Dialogue"
+      },
+      {
+        "objectName": "Press_Space_Bar"
+      }
+    ]
   },
   "events": [
     {
@@ -2968,13 +3090,28 @@
           "parameters": [
             ""
           ]
-        },
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "Dialogue"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
           "type": {
             "value": "CollisionNP"
           },
           "parameters": [
-            "_1",
+            "key_nat_1",
             "Alchemist_nat",
             "",
             "",
@@ -2985,18 +3122,19 @@
       "actions": [
         {
           "type": {
-            "value": "Cache"
+            "value": "Montre"
           },
           "parameters": [
-            "_1"
+            "key_nat_1",
+            ""
           ]
         },
         {
           "type": {
-            "value": "Montre"
+            "value": "Delete"
           },
           "parameters": [
-            "_1",
+            "key_nat_1",
             ""
           ]
         }
@@ -3004,8 +3142,193 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_2",
+            "Alchemist_nat",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "key_nat_2",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "key_nat_2",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_3",
+            "Alchemist_nat",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "key_nat_3",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "key_nat_3",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_4",
+            "Alchemist_nat",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "key_nat_4",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "key_nat_4",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_1",
+            "key_nat_2",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_1",
+            "key_nat_3",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_1",
+            "key_nat_4",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_2",
+            "key_nat_3",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "key_nat_3",
+            "key_nat_4",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "Key_nat_",
+            "710",
+            "259",
+            ""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -3041,75 +3364,45 @@
       "conditions": [
         {
           "type": {
-            "value": "CollisionNP"
+            "value": "KeyPressed"
           },
           "parameters": [
-            "_1",
-            "_2",
             "",
-            "",
-            ""
+            "Space"
           ]
         },
         {
           "type": {
-            "value": "CollisionNP"
+            "value": "BuiltinCommonInstructions::Once"
           },
-          "parameters": [
-            "_1",
-            "_3",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "_1",
-            "_4",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "_2",
-            "_3",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "_3",
-            "_4",
-            "",
-            "",
-            ""
-          ]
+          "parameters": []
         }
       ],
       "actions": [
         {
           "type": {
-            "value": "Create"
+            "value": "ShowLayer"
           },
           "parameters": [
             "",
-            "NewSprite2",
-            "710",
-            "259",
+            "\"DialogueLayer\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "Dialogue",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "Press_Space_Bar",
             ""
           ]
         }
@@ -3127,7 +3420,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
+      "isLocked": true,
       "name": "",
       "renderingType": "",
       "visibility": true,
@@ -3171,7 +3464,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
+      "isLocked": true,
       "name": "BackgroundLayer1",
       "renderingType": "",
       "visibility": true,
@@ -3204,7 +3497,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
+      "isLocked": true,
       "name": "Floor layer",
       "renderingType": "",
       "visibility": true,
@@ -3259,6 +3552,39 @@
           "booleanParameters": {}
         }
       ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "DialogueLayer",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
     }
   ],
   "behaviorsSharedData": [
@@ -3285,6 +3611,14 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "SpeedPathMovement",
+      "type": "CurvedMovement::SpeedPathMovement"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "TopDownMovement",
