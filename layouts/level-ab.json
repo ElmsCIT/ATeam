@@ -859,9 +859,9 @@
       "effects": [],
       "behaviors": [
         {
-          "maxSpeed": 400,
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "maxSpeed": 400,
           "acceleration": 400,
           "allowDiagonals": true,
           "angleOffset": 0,
@@ -1427,6 +1427,8 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior",
           "acceleration": 100,
           "allowDiagonals": true,
           "angleOffset": 0,
@@ -1437,10 +1439,8 @@
           "gridOffsetX": 0,
           "gridOffsetY": 0,
           "maxSpeed": 150,
-          "name": "Pathfinding",
           "rotateObject": true,
-          "smoothingMaxCellGap": 1,
-          "type": "PathfindingBehavior::PathfindingBehavior"
+          "smoothingMaxCellGap": 1
         }
       ],
       "animations": [
@@ -2217,7 +2217,7 @@
           },
           "parameters": [
             "",
-            "\"Level Natalina\"",
+            "\"Ending Scene\"",
             ""
           ]
         }
