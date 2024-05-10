@@ -3100,6 +3100,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/0f210da12bae3c60a0e5aebc69dc87367c72cd894e2f2b9f3a8594909c1bfadf_Fly_9.png",
           "name": "Fly_9.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cropped Props/A_bft.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cropped Props\\A_bft.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

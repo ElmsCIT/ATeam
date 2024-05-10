@@ -840,7 +840,7 @@
       "leftMargin": 0,
       "name": "NewPanelSprite",
       "rightMargin": 0,
-      "texture": "Cropped Props\\A+_bft.png",
+      "texture": "Cropped Props\\A_bft.png",
       "tiled": false,
       "topMargin": 0,
       "type": "PanelSpriteObject::PanelSprite",
